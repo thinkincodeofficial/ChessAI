@@ -5,7 +5,7 @@ written from scratch in NumPy (forward pass, backprop and Adam by hand). There
 are no opening books, no human games and no Stockfish. `python-chess` only
 supplies the rules.
 
-📺 Watch the video: [YOUTUBE LINK]
+📺 Watch the video: https://youtu.be/tch24nmX3V4
 
 ## Setup
 
